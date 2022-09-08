@@ -1,1 +1,30 @@
-# qinglong
+## NodeJs
+crypto-js	
+prettytable
+dotenv
+jsdom
+date-fns	
+tough-cookie	
+tslib
+ws@7.4.3	
+ts-md5	
+jsdom -g	
+jieba
+form-data	
+json5
+global-agent	
+png-js	
+@types/node	
+require
+typescript
+js-base64	
+axios
+moment
+qs
+qrcode-terminal	
+ds
+##Python3
+requests
+canvas
+ping3
+jieba
